@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="auth_failed">fails</string>
+</resources>
